@@ -8,7 +8,9 @@ rcParams['font.family'] = 'serif'
 rcParams['font.sans-serif'] = ['Verdana']
 
 '''
-
+This code generates a visualisation of the exceedance probability data from the 
+Sixth Assessment Report (AR6) of Working Group III 
+by the Intergovernmental Panel on Climate Change (IPCC), entitled Climate Change 2022: Mitigation of Climate Change.
 '''
 
 #%%
